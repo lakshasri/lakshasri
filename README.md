@@ -1,5 +1,5 @@
 # 💫 About Me:
-I code, I debug, I repeat. I’m Laksha — basically living in a world where my brain has more tabs open than my browser. When I'm not typing away like there's no tomorrow, I'm probably on a random deep dive about something I’ll forget in a week..<br> When I'm not coding, I'm probably tweaking a project or thinking of the next big thing.<br>If you're into innovation, problem-solving, or just vibing with cool tech, you’re in the right place.<br><br>
+I code, I debug, I repeat. I’m Laksha — basically living in a world where my brain has more tabs open than my browser. When I'm not typing away like there's no tomorrow, I'm probably on a random deep dive about something I’ll forget in a week..<br> When I'm not coding, I'm probably tweaking a project or thinking of the next big thing.<br><br>
 
 ## // The story of my life
 ```javascript
@@ -13,7 +13,6 @@ while (alive) {
   repeat();
 }
 ```
-
 ## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/yourusername)
