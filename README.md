@@ -1,6 +1,5 @@
 # 💫 About Me
-#### I code, I debug, I repeat. I’m Laksha , basically living in a world where my brain has more tabs open than my browser. When I'm not typing away like there's no tomorrow, I'm probably on a random deep dive about something I’ll forget in a week..<br> 
- When life gets overwhelming, I channel my inner designer or suddenly develop an obsession with cleaning (totally normal coping mechanism right?) 
+#### I’m Laksha , basically living in a world where my brain has more tabs open than my browser.<br> 
 
 Currently, I’m diving into computer vision, along with the basics of ML and DL, while juggling a few ongoing projects in the field. Productivity or procrastination? You decide <br><br>
 ![mewhenicode](github.jpg)
