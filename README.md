@@ -3,7 +3,7 @@
 Currently, I’m diving into computer vision, along with the basics of ML and DL, while juggling a few ongoing projects in the field. Productivity or procrastination? You decide <br><br>
 ![mewhenicode](github.jpg)
 
-## The story of my life
+#### The story of my life
 ```javascript
 while (alive) {
   code();
