@@ -3,18 +3,6 @@
 Currently, I’m diving into computer vision, along with the basics of ML and DL, while juggling a few ongoing projects in the field. Productivity or procrastination? You decide <br><br>
 ![mewhenicode](github.jpg)
 
-#### The story of my life
-```javascript
-while (alive) {
-  code();
-  if (stuck) {
-    coffee();
-    googleFuriously();
-  }
-  learn();
-  repeat();
-}
-```
 #### 📩 Ping Me Anytime @
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/yourusername)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/yourusername)
