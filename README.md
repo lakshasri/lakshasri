@@ -1,6 +1,6 @@
 # Hi ! I'm Laksha 😸
 #### I'm doing undergrad in computer science at PES University, Bangalore. I’m basically living in a world where my brain has more tabs open than my browser.<br> 
-Currently, I’m diving into computer vision, along with the basics of ML and DL, while juggling a few ongoing projects in the field. Productivity or procrastination? You decide <br><br>
+Currently, I’m diving into agentic systems, along with the robotics (multiagent systems) while juggling a few ongoing projects in the field. Productivity or procrastination? You decide <br><br>
 ![mewhenicode](github.jpg)
 
 #### 📩 Ping Me Anytime @
