@@ -1,5 +1,5 @@
 # Hi ! I'm Laksh 😸
-#### I'm doing undergrad in computer science at PES University, Bangalore. I’m basically living in a world where my brain has more tabs open than my browser.<br> 
+#### I'm doing undergrad in computer science at PES University, Bangalore <br> 
 Currently, I’m diving into agentic systems, along with the robotics (multiagent systems) while juggling a few ongoing projects in the field. Productivity or procrastination? You decide <br><br>
 ![mewhenicode](github.jpg)
 
