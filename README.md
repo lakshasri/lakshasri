@@ -31,7 +31,7 @@
 
 
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-f2c4ce?style=flat-square&logo=linkedin&logoColor=6d3a47)](https://linkedin.com/in/lakshari-shivakumar)
+[![LinkedIn](https://img.shields.io/badge/linkedin-f2c4ce?style=flat-square&logo=linkedin&logoColor=6d3a47)](https://www.linkedin.com/in/lakshasri-shivakumar/)
 [![Email](https://img.shields.io/badge/email-f2c4ce?style=flat-square&logo=gmail&logoColor=6d3a47)](mailto:lakshasrishivakumar@gmail.com)
 
 <br>
