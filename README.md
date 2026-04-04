@@ -25,7 +25,11 @@
   coffee dependency            █████████░  91%
   it's research  (trust me)    ████████░░  84%
 ```
-
+```
+ /\_/\ 
+( -.- )
+/   \
+```
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-f2c4ce?style=flat-square&logo=linkedin&logoColor=6d3a47)](https://www.linkedin.com/in/lakshasri-shivakumar/)
