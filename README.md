@@ -1,9 +1,7 @@
 <div align="center">
-
+<h3>Hi im Laksha!</h3>
 <img src="github.jpg" width="280" align="right"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&duration=2800&pause=900&color=c47a8a&center=true&vCenter=true&width=500&height=45&lines=hi+i'm+laksha+_;cs+undergrad+%40+PES+Bangalore+_;always+building+something+_" alt="typing" />
-
+  
 ```
 +-------------------------------------------------+
 |  name    : lakshari shivakumar                  |
